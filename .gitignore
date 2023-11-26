@@ -1,0 +1,11 @@
+
+
+#Não precisa subir o venv
+/algoritmo_genetico
+/__pycache__
+
+
+# Coisas do ambiente pycharm
+*.iml
+*.xml
+*.csv
