@@ -1,0 +1,26 @@
+,disciplina,periodo,disc_desc
+0,CC21C,1,Fundamentos De Programação
+1,CC21D,1,Introdução A Ciência Da Computação
+2,F1221E,1,Fundamentos De Eletricidade
+3,MA221A,1,Cálculo Diferencial E Integral 1
+4,MA221B,1,Geometria Analítica E Álgebra Linear
+5,MA221F,1,Lógica Matemática
+6,CC22B,2,Circuitos Digitais
+7,CC22C,2,Linguagem De Programação Estruturada
+8,CC22D,2,Fundamentos De Banco De Dados
+9,ED222E,2,Comunicação Linguistica
+10,MA222A,2,Cálculo Diferencial E Integral 2
+11,MA222F,2,Probabilidade E Estatística
+12,CC23B,3,Sistemas Gerenciadores De Banco De Dados
+13,CC23C,3,Estrutura De Dados
+14,CC23D,3,Arquitetura E Organização De Computadores
+15,CC23E,3,Programação Orientada A Objetos
+16,CC23F,3,Linguagem De Estruturação E Apresentação De
+17,MA223A,3,Cálculo Numérico
+18,CC24A,4,Linguagem De Programação Objeto Orientada
+19,CC24C,4,Pesquisa E Ordenação De Dados
+20,CC24D,4,Engenharia De Requisitos
+21,CC24E,4,Linguagem De Montagem
+22,CC24F,4,Comunicação De Dados
+23,CC24G,4,Computação Gráfica
+24,ED224B,4,Metodologia Da Pesquisa

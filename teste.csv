@@ -1,0 +1,26 @@
+,periodo,prereq,professor,horario,nome
+CC21C,1,[''],HOFFMANN,"['M2', 'TERÇA']",Fundamentos De Programação
+CC21D,1,[''],DIEGO,"['M1', 'QUARTA']",Introdução A Ciência Da Computação
+F1221E,1,[''],RAFAEL TESSER,"['T1', 'QUINTA']",Fundamentos De Eletricidade
+MA221A,1,[''],GIANI,"['M2', 'QUINTA']",Cálculo Diferencial E Integral 1
+MA221B,1,[''],VANDERLEA,"['M5', 'SEXTA']",Geometria Analítica E Álgebra Linear
+MA221F,1,[''],AGNALDO,"['T5', 'QUARTA']",Lógica Matemática
+CC22B,2,['MA221F'],GIUVANE,"['M4', 'SEGUNDA']",Circuitos Digitais
+CC22C,2,['CC21C'],EUCLIDES,"['M4', 'SEGUNDA']",Linguagem De Programação Estruturada
+CC22D,2,[''],CLAUDIO,"['T5', 'QUARTA']",Fundamentos De Banco De Dados
+ED222E,2,[''],GIUVANE,"['M4', 'SEGUNDA']",Comunicação Linguistica
+MA222A,2,['MA221A'],GIUVANE,"['T5', 'SEGUNDA']",Cálculo Diferencial E Integral 2
+MA222F,2,[''],GIANI,"['T4', 'SEGUNDA']",Probabilidade E Estatística
+CC23B,3,['CC22D'],EUCLIDES,"['M4', 'QUARTA']",Sistemas Gerenciadores De Banco De Dados
+CC23C,3,['CC22C'],ARLETE,"['M5', 'SEXTA']",Estrutura De Dados
+CC23D,3,[''],HOFFMANN,"['M2', 'SEGUNDA']",Arquitetura E Organização De Computadores
+CC23E,3,['CC21C'],EVANDRO NAKAJIM,"['M1', 'QUINTA']",Programação Orientada A Objetos
+CC23F,3,[''],LUANA,"['T1', 'SEGUNDA']",Linguagem De Estruturação E Apresentação De
+MA223A,3,[''],THIAGO,"['M4', 'TERÇA']",Cálculo Numérico
+CC24A,4,"['CC23B', 'CC23E']",LUANA,"['M1', 'SEGUNDA']",Linguagem De Programação Objeto Orientada
+CC24C,4,['CC23C'],ANDERSON,"['T1', 'SEXTA']",Pesquisa E Ordenação De Dados
+CC24D,4,[''],VERA,"['M2', 'SEGUNDA']",Engenharia De Requisitos
+CC24E,4,"['CC22C', 'CC23D']",HOFFMANN,"['T5', 'SEGUNDA']",Linguagem De Montagem
+CC24F,4,[''],DIEGO,"['M2', 'SEXTA']",Comunicação De Dados
+CC24G,4,['MA221B'],THIAGO,"['M2', 'TERÇA']",Computação Gráfica
+ED224B,4,[''],VERA,"['M2', 'SEGUNDA']",Metodologia Da Pesquisa
